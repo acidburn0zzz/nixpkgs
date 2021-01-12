@@ -16,7 +16,7 @@ GEM
     em-worker (0.0.2)
       eventmachine
     eventmachine (1.0.3)
-    ffi (1.9.8)
+    ffi (1.14.2)
     multi_json (1.11.0)
     rack (1.6.0)
     rack-protection (1.5.3)
